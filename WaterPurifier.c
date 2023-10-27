@@ -1,5 +1,5 @@
 #include <Servo.h>
-#include <Wire.h> //i2c 통신을 위한 라이브러리
+#include <Wire.h> //I2C 통신을 위한 라이브러리
 #include <LiquidCrystal_I2C.h> //LCD 1602 I2C용 라이브러리
 #include <IRremote.h>
 
